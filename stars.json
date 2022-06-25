@@ -1,7 +1,7 @@
 [
   {
     "full_name": "jamesqquick/javascript-array-functions-practice",
-    "stargazers_count": 100,
+    "stargazers_count": 101,
     "open_issues_count": 0,
     "forks_count": 127
   },
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 18382,
-    "open_issues_count": 37,
-    "forks_count": 528
+    "stargazers_count": 18512,
+    "open_issues_count": 39,
+    "forks_count": 533
   },
   {
     "full_name": "dev-ggaurav/responsive-hamburger-tutorial",
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 60355,
+    "stargazers_count": 60404,
     "open_issues_count": 2,
-    "forks_count": 5854
+    "forks_count": 5859
   },
   {
     "full_name": "chingu-voyages/soloproject-tier1-chingu-trivia",
@@ -38,7 +38,7 @@
   {
     "full_name": "SaConway/minimal-productivity-apps",
     "stargazers_count": 3,
-    "open_issues_count": 20,
+    "open_issues_count": 21,
     "forks_count": 0
   },
   {
@@ -49,26 +49,26 @@
   },
   {
     "full_name": "getify/You-Dont-Know-JS",
-    "stargazers_count": 154895,
+    "stargazers_count": 154974,
     "open_issues_count": 132,
-    "forks_count": 30538
+    "forks_count": 30554
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 124162,
-    "open_issues_count": 133,
-    "forks_count": 23815
+    "stargazers_count": 124243,
+    "open_issues_count": 134,
+    "forks_count": 23825
   },
   {
     "full_name": "AllThingsSmitty/css-protips",
-    "stargazers_count": 21481,
+    "stargazers_count": 21529,
     "open_issues_count": 13,
-    "forks_count": 1787
+    "forks_count": 1789
   },
   {
     "full_name": "wesbos/beginner-javascript",
-    "stargazers_count": 5521,
+    "stargazers_count": 5524,
     "open_issues_count": 33,
-    "forks_count": 1356
+    "forks_count": 1354
   }
 ]
